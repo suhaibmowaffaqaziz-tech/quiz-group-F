@@ -1,0 +1,22 @@
+const questions = [
+    { q: "What is the primary indicator of myocardial infarction size in blood tests?", o: ["AST", "ALT", "ALP", "Urease"], a: 0 },
+    { q: "Which enzyme is specifically used for the hydrolysis of Urea?", o: ["Urease", "Lactate Dehydrogenase", "Alkaline Phosphatase", "Creatinine kinase"], a: 0 },
+    { q: "What is a clinical effect of Zinc deficiency on fetal development?", o: ["Fetal growth failure", "Excessive growth", "Normal weight", "Improved immunity"], a: 0 },
+    { q: "Which condition is best assessed by Urinary Iodine?", o: ["Long-term iodine status", "Acute thyroid failure", "Renal clearance", "Liver damage"], a: 0 },
+    { q: "Which reaction uses Sodium nitroprusside and Salicylate?", o: ["Berthelot reaction (for Urea)", "Jaffe reaction (for Creatinine)", "Zinc assay", "ALP assay"], a: 0 },
+    { q: "Why are AST levels often used to distinguish cardiac disorders?", o: ["High concentration in cardiac muscle", "High concentration in bone", "High concentration in urine", "High concentration in skin"], a: 0 },
+    { q: "What is the result of Creatinine reaction in the Jaffe test?", o: ["Reddish-orange color", "Green precipitate", "Blue solution", "Clear liquid"], a: 0 },
+    { q: "What is the relationship between Alkaline Phosphatase (ALP) and biliary obstruction?", o: ["Levels increase", "Levels decrease", "Levels remain stable", "Levels fluctuate randomly"], a: 0 },
+    { q: "Which mineral deficiency leads to hypogonadism?", o: ["Zinc", "Iodine", "Sodium", "Iron"], a: 0 },
+    { q: "Which molecule does ALT transfer an amino group to?", o: ["2-oxoglutarate", "Urea", "Glucose", "Picrate"], a: 0 },
+    { q: "Which patient group requires medication dose adjustment based on eGFR?", o: ["Chronic kidney disease", "Healthy individuals", "Athletes", "People with high iodine intake"], a: 0 },
+    { q: "Which organ releases ALP during the 2nd and 3rd trimester of pregnancy?", o: ["Placenta", "Kidney", "Heart", "Spleen"], a: 0 },
+    { q: "In the AST/ALT test, why is NADH monitored at 340 nm?", o: ["It absorbs light at this wavelength", "It emits light at this wavelength", "It is the substrate", "It is an indicator"], a: 0 },
+    { q: "What is a symptom of severe iodine deficiency?", o: ["Goiter", "Diabetes", "Hypertension", "Liver necrosis"], a: 0 },
+    { q: "What does the Urea/Creatinine ratio > 15 imply in clinical chemistry?", o: ["Pre-renal failure", "Renal failure", "Normal metabolism", "Muscle dystrophy"], a: 0 },
+    { q: "Which trace element is required for the synthesis and repair of RNA?", o: ["Zinc", "Iodine", "Creatinine", "Glucose"], a: 0 },
+    { q: "Which enzyme is in highest concentration in the liver?", o: ["ALT", "ALP", "Urease", "AST"], a: 0 },
+    { q: "What is the primary indicator in the ALP assay?", o: ["p-Nitrophenol", "Pyruvate", "Ammonia", "Oxaloacetate"], a: 0 },
+    { q: "What affects the accuracy of the Cockcroft-Gault equation?", o: ["Weight extremes (obesity)", "High sugar intake", "Zinc levels", "Time of day"], a: 0 },
+    { q: "Which enzyme is inhibited/decreased in diabetic ketoacidosis?", o: ["AST", "ALP", "ALT", "Urease"], a: 0 }
+];
